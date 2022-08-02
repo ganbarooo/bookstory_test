@@ -1,5 +1,10 @@
 # bookstory_test
 
+## Prerequirement
+- docker
+
+## How to use
+
 - you can start as follow
 
         sudo docker image build -t storybook .
