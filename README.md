@@ -1,5 +1,10 @@
 # bookstory_test
 
+## What's bookstory?
+Storybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
+
+[official page](https://storybook.js.org/)
+
 ## Prerequirement
 - docker
 
